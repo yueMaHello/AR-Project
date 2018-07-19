@@ -6,18 +6,26 @@
 	
 	<body style="margin : 0px; overflow: hidden;">
 		<a-scene embedded arjs='sourceType: webcam; detectionMode: mono_and_matrix; matrixCodeType: 3x3;'>
-			<a-marker preset='pattern' type="pattern" url = './pattern-marker.patt'>
-				<a-box>
+			<a-marker preset='hiro'>
 
 				<!--<a-gltf-model src="./House.gltf"-->
 							<!--position="0 2 1.5"-->
 							<!--rotation="90 180 0">-->
 				<!--</a-gltf-model>-->
-					<a-entity scale = "0.1 0.1 0.1" gltf-model = 'src:url(./House.gltf);' position="-0.5 0 0.5" rotation = "90 180 0"></a-entity>
+					<a-entity scale = "0.02 0.02 0.02" gltf-model = 'src:url(./House.gltf);' position="-0.05 0 0.05" ></a-entity>
 
-				</a-box>
+			</a-marker>
+
+			<a-marker preset='pattern' type="pattern" url = './pattern-marker-Epcor.patt'>
+					<a-entity scale = "0.02 0.02 0.02" gltf-model = 'src:url(./EPCOR.gltf);' position="-0.05 0 0.05" ></a-entity>
+
+			</a-marker>
+
+			<a-marker preset='pattern' type="pattern" url = './pattern-marker-Gibson.patt'>
+					<a-entity scale = "0.02 0.02 0.02" gltf-model = 'src:url(./Gibson.gltf);' position="-0.05 0 0.05"></a-entity>
 			</a-marker>
 			<a-entity camera></a-entity>
+
 
 		</a-scene>
 	</body>

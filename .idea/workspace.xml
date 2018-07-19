@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="777c8f64-5866-4efd-81be-000860820f67" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-marker.patt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EPCOR.gltf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gibson.gltf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-marker-Epcor.patt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pattern-marker-Gibson.patt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AR_Mech_Drone.html" afterPath="$PROJECT_DIR$/AR_Mech_Drone.html" />
     </list>
@@ -25,24 +28,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="House.gltf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/House.gltf">
+      <file leaf-file-name="AR_Mech_Drone.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AR_Mech_Drone.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pattern-marker-Epcor.patt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pattern-marker-Epcor.patt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AR_Mech_Drone.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AR_Mech_Drone.html">
+      <file leaf-file-name="EPCOR.gltf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EPCOR.gltf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="House.gltf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/House.gltf">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gibson.gltf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gibson.gltf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -75,6 +108,7 @@
         <option value="$PROJECT_DIR$/MechDrone_Demo/House.gltf" />
         <option value="$PROJECT_DIR$/ARTest.html" />
         <option value="$PROJECT_DIR$/MechDrone_Demo/AR_Mech_Drone.html" />
+        <option value="$PROJECT_DIR$/House.gltf" />
         <option value="$PROJECT_DIR$/AR_Mech_Drone.html" />
       </list>
     </option>
@@ -254,19 +288,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/ARjs/AR.js/aframe/examples/House.gltf">
+    <entry file="file://$PROJECT_DIR$/ARTest.html" />
+    <entry file="file://$PROJECT_DIR$/Gibson.gltf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ARTest.html" />
-    <entry file="file://$PROJECT_DIR$/House.gltf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="5" lean-forward="false" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -279,10 +305,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AR_Mech_Drone.html">
+    <entry file="file://$USER_HOME$/Desktop/ARjs/AR.js/aframe/examples/House.gltf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pattern-marker-Epcor.patt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EPCOR.gltf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/House.gltf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AR_Mech_Drone.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
